@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<ArrayOfKpk xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Kpk>
+    <regionID>4</regionID>
+    <ID>Festivals</ID>
+    <Images>kpkAttanDance.jpg</Images>
+    <description>Attan Dance</description>
+    <largeDescription>The performance of the attan dance has been a long customary in the Pashtun culture and is carried by Pashtuns mostly, and other ethnic groups as well.[ Attan is a special type of dance performed by a troupe of 50 to 100 dancers who wave red scarves in the air while musicians beat drums.</largeDescription>
+  </Kpk>
+  <Kpk>
+    <regionID>4</regionID>
+    <ID>Festivals</ID>
+    <Images>kpkAttanDance1.jpg</Images>
+    <description>Attan Dance</description>
+    <largeDescription>The performance of the attan dance has been a long customary in the Pashtun culture and is carried by Pashtuns mostly, and other ethnic groups as well.[ Attan is a special type of dance performed by a troupe of 50 to 100 dancers who wave red scarves in the air while musicians beat drums.</largeDescription>
+  </Kpk>
+  <Kpk>
+    <regionID>4</regionID>
+    <ID>Festivals</ID>
+    <Images>kpkAttanDanceWomens.jpg</Images>
+    <description>Attan Dance</description>
+    <largeDescription>The performance of the attan dance has been a long customary in the Pashtun culture and is carried by Pashtuns mostly, and other ethnic groups as well.[ Attan is a special type of dance performed by a troupe of 50 to 100 dancers who wave red scarves in the air while musicians beat drums.</largeDescription>
+  </Kpk>
+  <Kpk>
+    <regionID>4</regionID>
+    <ID>Cuisine</ID>
+    <Images>kpkNihari.jpg</Images>
+    <description>Nihari</description>
+    <largeDescription>Nihari  is a stew from the Province Khyber Pakhtunkhwa, consisting of slow-cooked meat mainly shank meat of camel or lamb and mutton, goat meat and chicken, along with bone marrow.</largeDescription>
+  </Kpk>
+  <Kpk>
+    <regionID>4</regionID>
+    <ID>Cuisine</ID>
+    <Images>kpkChapliKabab.jpg</Images>
+    <description>Chappli Kabab</description>
+    <largeDescription>Chapli kebab is a Mughlai-influenced Pashtun-style minced kebab, usually made from ground mutton or chicken with various spices in the shape of a patty. It originates from Peshawar, and is also known as the Peshawari kebab.</largeDescription>
+  </Kpk>
+  <Kpk>
+    <regionID>4</regionID>
+    <ID>Cuisine</ID>
+    <Images>kpkKabuliPuloa.jpg</Images>
+    <description>Kabuli Puloa</description>
+    <largeDescription>Kabuli palaw is made by cooking basmati or long grained rice in a brothy sauce (which makes the rice brown). This dish may be made with lamb, or chicken. Kabuli pulao is baked in the oven and may be topped with fried sliced carrots, raisins, orange peel strips, and chopped nuts like pistachios or almonds. The meat is covered by the rice or buried in the rice mixture.</largeDescription>
+  </Kpk>
+  <Kpk>
+    <regionID>4</regionID>
+    <ID>Places to visit</ID>
+    <Images>kpkKhyberPass.jpg</Images>
+    <description>Bab-e-Khyber</description>
+    <largeDescription>The Khyber Pass became a critical part of the Silk Road, which connected Shanghai in the East to Cádiz on the coast of Spain. The Parthian and Roman Empires fought for control of passes such as these to gain access to the silk, jade, rhubarb, and other luxuries moving from China to Western Asia and Europe. Through the Khyber Pass, Gandhara (in present-day Pakistan) became a regional center of trade connecting Bagram in Afghanistan to Taxila in Pakistan, adding Indian luxury goods such as ivory, pepper, and textiles to the Silk Road commerce.</largeDescription>
+  </Kpk>
+  <Kpk>
+    <regionID>4</regionID>
+    <ID>Places to visit</ID>
+    <Images>kpkJheelSaifulMulook.jpg</Images>
+    <description>Jheel Saif-ul-Mulook</description>
+    <largeDescription>he Lake Saif-ul-Mulook is named after a legendary prince. A fairy tale called Saif-ul-Muluk, written by the Sufi poet Mian Muhammad Bakhsh, talks of the lake.  It tells the story of the prince of Persia named Prince Saiful Malook who fell in love with a fairy princess named Princess Badri-ul-Jamala at the lake.</largeDescription>
+  </Kpk>
+  <Kpk>
+    <regionID>4</regionID>
+    <ID>Places to visit</ID>
+    <Images>kpkSawatValley.jpg</Images>
+    <description>Swat valley</description>
+    <largeDescription>Swat valley lies in the lap of mountainous ranges, which are the offshoots of Hindukush, so the larger part of Swat is covered with high mountains and hills, the crests of which are hidden by everlasting snow. Though these gigantic ranges run irregularly: some to the west while the others to the east, but the general direction is North-South.</largeDescription>
+  </Kpk>
+  <Kpk>
+    <regionID>4</regionID>
+    <ID>Traditional Dress</ID>
+    <Images>kpkWomenDress.jpg</Images>
+    <description>Pakhtun Womens Dress</description>
+    <largeDescription>The traditional female dress is the Firaq partūg. Women typically wear solid-coloured trousers, a long kamīs shirt with a belt. Sometimes they will wear an encompassing burqa over this outfit or a tsādar on their head. </largeDescription>
+  </Kpk>
+  <Kpk>
+    <regionID>4</regionID>
+    <ID>Traditional Dress</ID>
+    <Images>kpkWomenDress1.jpg</Images>
+    <description>Pakhtun Womens Dress</description>
+    <largeDescription>The traditional female dress is the Firaq partūg. Women typically wear solid-coloured trousers, a long kamīs shirt with a belt. Sometimes they will wear an encompassing burqa over this outfit or a tsādar on their head. </largeDescription>
+  </Kpk>
+  <Kpk>
+    <regionID>4</regionID>
+    <ID>Traditional Dress</ID>
+    <Images>kpkMensDress.jpg</Images>
+    <description>Pakhtun Mens Dress</description>
+    <largeDescription>The traditional perahan worn in Khyber Pakhtunkhwa generally falls to the knees. The traditional perahan buttons on either shoulder, is collarless and is meant to be loose. Further, the traditional perahan is wide but fits closer to the body down to the waist and then is loose and full down to the knees (thereby flaring out). </largeDescription>
+  </Kpk>
+</ArrayOfKpk>

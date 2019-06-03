@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<ArrayOfSindh xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Sindh>
+    <regionID>1</regionID>
+    <ID>Festivals</ID>
+    <Images>sindhiCultureDay.JPG</Images>
+    <description>Sindhi Cultural Day</description>
+    <largeDescription>Sindhi Cultural Day also known as 'Aekta jo ddihaarro', is widely celebrated with traditional enthusiasm to spotlight the centuries-old rich culture of Sindh. The day is celebrated all over Sindh, and amongst the Sindhi diaspora around the world. Cultural day is the celebration, demonstration of culture of Sindh.</largeDescription>
+  </Sindh>
+  <Sindh>
+    <regionID>1</regionID>
+    <ID>Festivals</ID>
+    <Images>sindhiCultureDay1.JPG</Images>
+    <description>Sindhi Cultural Day</description>
+    <largeDescription>Sindhi Cultural Day also known as 'Aekta jo ddihaarro', is widely celebrated with traditional enthusiasm to spotlight the centuries-old rich culture of Sindh. The day is celebrated all over Sindh, and amongst the Sindhi diaspora around the world. Cultural day is the celebration, demonstration of culture of Sindh.</largeDescription>
+  </Sindh>
+  <Sindh>
+    <regionID>1</regionID>
+    <ID>Festivals</ID>
+    <Images>sindhiDewaliInKhi.jpg</Images>
+    <description>Dewali festival in Karachi</description>
+    <largeDescription>Hindu community celebrated dewali event at their temples through gatherings of families and decorating their houses and temples with colourful lights.</largeDescription>
+  </Sindh>
+  <Sindh>
+    <regionID>1</regionID>
+    <ID>Cuisine</ID>
+    <Images>sindhiChanaPuri.jpg</Images>
+    <description>Channa Puri</description>
+    <largeDescription>Chana Puri is an unleavened deep-fried bread, originating from the Indian subcontinent. It is eaten for breakfast in sindh province of Pakistan or as a snack or light meal. It is usually served with a chana curry or bhaji, as in Puri bhaji, but may also be eaten with sweet dishes..</largeDescription>
+  </Sindh>
+  <Sindh>
+    <regionID>1</regionID>
+    <ID>Cuisine</ID>
+    <Images>sindhiBiryani.jpg</Images>
+    <description>Sindhi Biryani</description>
+    <largeDescription>Sindhi Biryani is a special meat and rice biryani dish originating from the Sindh province of Pakistan. Owing to its popularity, it forms one of the most consumed dishes of Pakistani cuisine and Sindhi cuisine.</largeDescription>
+  </Sindh>
+  <Sindh>
+    <regionID>1</regionID>
+    <ID>Cuisine</ID>
+    <Images>sindhiRabri.jpg</Images>
+    <description>Rabri</description>
+    <largeDescription>Rabri  is a famous sweet from Hyderabad, Sind,  Pakistan, by condensed-milk-based dish,  by boiling the milk on low heat for a long time until it becomes dense and changes its color to pinkish. Sugar, spices and nuts are added to it to give it flavor. It is chilled and served as dessert.</largeDescription>
+  </Sindh>
+  <Sindh>
+    <regionID>1</regionID>
+    <ID>Places to visit</ID>
+    <Images>sindhiMoenjoDaro.JPG</Images>
+    <description>Mohenjo-Daro</description>
+    <largeDescription>Mohenjo-daro ‎, meaning 'Mound of the Dead Men' is an archaeological site in the province of Sindh, Pakistan. Built around 2500 BCE, it was one of the largest settlements of the ancient Indus Valley Civilisation, and one of the world's earliest major cities, contemporaneous with the civilizations of ancient Egypt, Mesopotamia, Minoan Crete, and Norte Chico.</largeDescription>
+  </Sindh>
+  <Sindh>
+    <regionID>1</regionID>
+    <ID>Places to visit</ID>
+    <Images>sindhiEmpressMarket.jpg</Images>
+    <description>Empress Market</description>
+    <largeDescription>The Empress Market was constructed between 1884 and 1889 and was named to commemorate Queen Victoria, Empress of India. The market was constructed at a well-chosen site that was clearly visible from a great distance. The site of the market had historical significance as it was situated on the grounds where a number of native sepoys were executed in a ruthless fashion after the Sepoy Mutiny of 1857.</largeDescription>
+  </Sindh>
+  <Sindh>
+    <regionID>1</regionID>
+    <ID>Places to visit</ID>
+    <Images>sindhiRanikotFort.jpg</Images>
+    <description>Ranikot Fort</description>
+    <largeDescription>Ranikot Fort also known as Rannikot) is a historical Talpur fort near Sann, Jamshoro District, Sindh, Pakistan. Ranikot Fort is also known as The Great Wall of Sindh and is believed to be the world's largest fort.  with a circumference of approximately 32 kilometres (20 mi). The fort's ramparts have been compared to the Great Wall of China.</largeDescription>
+  </Sindh>
+  <Sindh>
+    <regionID>1</regionID>
+    <ID>Traditional Dress</ID>
+    <Images>sindhiAjrakKoti.jpg</Images>
+    <description>Sindhi Mens Dress</description>
+    <largeDescription>The Sindhi kurta is the traditional straight cut variety which is made up of  local patterns of embroider the garment and also makes use of mirrors. The local art of bandhani (creating patterned textiles by resisting parts of a fabric by tying knots on it before it is dyed) is utilized which is believed to have originated in Sindh and spread to Gujarat via Rajasthan and is also practiced in the Punjab region. Sindhi kurtas are also made out of heavy local material called rilli and the kurtas are often called rilli kurtas.  Ajrak prints are also used.</largeDescription>
+  </Sindh>
+  <Sindh>
+    <regionID>1</regionID>
+    <ID>Traditional Dress</ID>
+    <Images>sindhiAjrak.JPG</Images>
+    <description>Ajrak</description>
+    <largeDescription>The traditional sindhi women dress is lengha (jablo) choli which is  worn by women in various parts of Sindh. Women in the Thakparkar district wear a ghagra, a heavier version of the lehnga, with either a loose or fitted choli, or a kancera, a fully embroidered, backless blouse, held on by small cap sleeves and strings.</largeDescription>
+  </Sindh>
+  <Sindh>
+    <regionID>1</regionID>
+    <ID>Traditional Dress</ID>
+    <Images>sindhiShaziaKhushk.jpg</Images>
+    <description>Sindhi Womens Dress</description>
+    <largeDescription>The traditional sindhi women dress is lengha (jablo) choli which is  worn by women in various parts of Sindh. Women in the Thakparkar district wear a ghagra, a heavier version of the lehnga, with either a loose or fitted choli, or a kancera, a fully embroidered, backless blouse, held on by small cap sleeves and strings.</largeDescription>
+  </Sindh>
+</ArrayOfSindh>

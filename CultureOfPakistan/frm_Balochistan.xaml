@@ -1,0 +1,51 @@
+﻿<UserControl x:Class="CultureOfPakistan.frm_Balochistan"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:CultureOfPakistan"
+             mc:Ignorable="d" 
+           Height="606" Width="1013" Background="White">
+    <Grid>
+        <Grid.Resources>
+            <local:Image_converter x:Key="Convertor"/>
+        </Grid.Resources>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="45"></RowDefinition>
+            <RowDefinition Height="408"></RowDefinition>
+            <RowDefinition Height="119"></RowDefinition>
+
+
+        </Grid.RowDefinitions>
+        <Label Name="province_name" Content="Province Balochistan"  FontSize="20" Foreground="Blue" HorizontalAlignment="Left" Margin="0,-3,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Width="221" Height="35">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.276"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <RadioButton  Checked="Rd_Btn_festival_Checked" Name="Rd_Btn_festival" Content="Festivals" FontSize="20" HorizontalAlignment="Left" Margin="44,35,0,0" Grid.Row="2" VerticalAlignment="Top" Width="106" Height="26"/>
+        <RadioButton Checked="Rd_Btn_big_city_Checked"  Name="Rd_Btn_big_city" Content="Big cities" FontSize="20" HorizontalAlignment="Left" Margin="180,35,0,0" Grid.Row="2" VerticalAlignment="Top" Width="106" Height="26" />
+        <RadioButton Checked="Rd_Btn_traditional_food_Checked" Name="Rd_Btn_traditional_food" Content="Traditional Food" FontSize="20" HorizontalAlignment="Left" Margin="351,35,0,0" Grid.Row="2" VerticalAlignment="Top" Width="172" Height="26"/>
+        <RadioButton Checked="Rd_Btn_traditional_dress_Checked" Name="Rd_Btn_traditional_dress" Content="Traditional Dress" FontSize="20" HorizontalAlignment="Left" Margin="776,35,0,0" Grid.Row="2" VerticalAlignment="Top" Width="169" Height="26"/>
+        <RadioButton Checked="Rd_Btn_places_to_visit_Checked" Name="Rd_Btn_places_to_visit" Content="Places to visit" FontSize="20" HorizontalAlignment="Left" Margin="575,35,0,0" Grid.Row="2" VerticalAlignment="Top" Width="156" Height="26"/>
+        <Button Name="btn_map" Content="Map" FontSize="18" HorizontalAlignment="Left" Margin="887,0,0,0" VerticalAlignment="Top" Width="116" Height="44" Click="btn_Home_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="White" Offset="0"/>
+                    <GradientStop Color="#FF46C739" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+
+        <Image  Name="balochistan_sports_festival" Height="200" Visibility="Hidden" Stretch="UniformToFill" Source="sports-festivalss.jpg" ToolTip="Balochistan Sports Festival" HorizontalAlignment="Left"   VerticalAlignment="Top" Width="475" Margin="10,10,0,0" Grid.Row="1"/>
+        <Image HorizontalAlignment="Left" Height="200"  VerticalAlignment="Top" Width="475" Margin="528,10,0,0" Grid.Row="1"/>
+        <Image HorizontalAlignment="Left" Height="200"  VerticalAlignment="Top" Width="475" Margin="10,199,0,0" Grid.Row="1"/>
+        <Image HorizontalAlignment="Left" Height="200"  VerticalAlignment="Top" Width="475" Margin="528,199,0,0" Grid.Row="1"/>
+
+        
+    </Grid>
+</UserControl>

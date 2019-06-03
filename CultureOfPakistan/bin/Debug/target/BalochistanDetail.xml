@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<ArrayOfBalochistan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Balochistan>
+    <regionID>2</regionID>
+    <ID>Festivals</ID>
+    <Images>balochistanBolanJeepRally.jpg</Images>
+    <description>Bolan Jeep Rally</description>
+    <largeDescription>QUETTA: The three-day Bolan Jeep Rally. The rally, organized by the Balochistan government and Head Quarters Southern Command, in which a large number of prominent race drivers and sports adventurers, Women drivers are also taking part in the second Bolan Jeep Rally.</largeDescription>
+  </Balochistan>
+  <Balochistan>
+    <regionID>2</regionID>
+    <ID>Festivals</ID>
+    <Images>balochistanFolkFestivalSibi.jpg</Images>
+    <description>Sibi Mela</description>
+    <largeDescription>The Sibi Mela is an annual cultural show held in Sibi from 24-28 February, in the Balochistan Province of Pakistan. The first Sibi Mela was held in Sibi in January 1885.[1] It has subsequently developed into a cultural festival, with animal markets, camel racing, tent pegging and exhibitions of handicrafts, tribal dresses and folk dances.</largeDescription>
+  </Balochistan>
+  <Balochistan>
+    <regionID>2</regionID>
+    <ID>Festivals</ID>
+    <Images>balochistanSibiMela.jpg</Images>
+    <description>Sibi Mela</description>
+    <largeDescription>The Sibi Mela is an annual cultural show held in Sibi from 24-28 February, in the Balochistan Province of Pakistan. The first Sibi Mela was held in Sibi in January 1885. It has subsequently developed into a cultural festival, with animal markets, camel racing, tent pegging and exhibitions of handicrafts, tribal dresses and folk dances..</largeDescription>
+  </Balochistan>
+  <Balochistan>
+    <regionID>2</regionID>
+    <ID>Cuisine</ID>
+    <Images>balochistanTraditionalStyleBreakfast.jpg</Images>
+    <description>Chayee Paratha</description>
+    <largeDescription>Chayee Paratha meaning (tea with bread and butter) is balochistan’s traditional breakfast.</largeDescription>
+  </Balochistan>
+  <Balochistan>
+    <regionID>2</regionID>
+    <ID>Cuisine</ID>
+    <Images>balochistanSajji.jpg</Images>
+    <description>Sajji</description>
+    <largeDescription>Sajji is a dish originating from the Balochistan province of Pakistan. It consists of whole lamb or chicken, in skewers (fat and meat intact), marinated only in salt, sometimes covered with green papaya paste, stuffed with rice, then roasted over coals. Sajji is considered done when it is at the 'rare' stage. It is served with a special bread Kaak, roti or naan, which is baked in an oven, wrapped around a stone tandoor</largeDescription>
+  </Balochistan>
+  <Balochistan>
+    <regionID>2</regionID>
+    <ID>Cuisine</ID>
+    <Images>balochistaKkhaddi.jpg</Images>
+    <description>Khaddi Kabab</description>
+    <largeDescription>Khaddi Kebab is a traditional Balochi food in which full lamb is barbecued in an underground space and put fire on the peak of the iron sheet wrapping the trenched space. Rice is also cooked inside the full lamb by well-trained professionals who know the art of cooking this delicious food. It normally weights around 10-12 kg that can be eaten by too many people at a time. The combination of rice and meat makes this dish too much delicious so that it is very hard to resist it.</largeDescription>
+  </Balochistan>
+  <Balochistan>
+    <regionID>2</regionID>
+    <ID>Places to visit</ID>
+    <Images>balochistanBolanPass.jpg</Images>
+    <description>Bolan Pass</description>
+    <largeDescription>The Bolān Pass is a mountain pass through the Toba Kakar Range of Balochistan province in western Pakistan, 120 km (75 mi) from the Afghanistan border. The pass is an 89 km (55 mi) stretch of the Bolan river valley from Rindli in the south to Darwāza near Kolpur in the north. It is made up of a number of narrow gorges and stretches.</largeDescription>
+  </Balochistan>
+  <Balochistan>
+    <regionID>2</regionID>
+    <ID>Places to visit</ID>
+    <Images>balochistanKundMalir.jpg</Images>
+    <description>Kund Malir</description>
+    <largeDescription>Kund Malir' is a beach in Balochistan, Pakistan located in Hingol National Park, about 150 kilometres (93 mi) from Zero-Point on Makran Coastal Highway. The drive between Kund Malir and Ormara is considered to be scenic. The area is part of Hingol National Park which is the largest in Pakistan. Traveling time from Karachi is around 4 hours and 03 hours from Gwadar.</largeDescription>
+  </Balochistan>
+  <Balochistan>
+    <regionID>2</regionID>
+    <ID>Places to visit</ID>
+    <Images>balochistanZiaratResidency.jpg</Images>
+    <description>Ziarat Recidency</description>
+    <largeDescription>Quaid-e-Azam Residency, also known as Ziarat Residency, is located in Ziarat, Balochistan, Pakistan. It is where Quaid-e-Azam, Muhammad Ali Jinnah spent the last two months and ten days of his life, nursed by A. S. Nathaniel. It is the most famous landmark of the city, constructed in 1892 during the British Raj. The building is a wooden structure, originally designed as a sanatorium before being converted into the summer residence of the agent of the Governor General. It is declared a national monument and heritage site and is of great architectural importance.</largeDescription>
+  </Balochistan>
+  <Balochistan>
+    <regionID>2</regionID>
+    <ID>Traditional Dress</ID>
+    <Images>balochistanMensDress.jpg</Images>
+    <description>Baloch Mens Dress</description>
+    <largeDescription>The men's shalwar kameez consists of a very baggy shalwar  which uses large lengths of cloth. The kameez is also loose, which traditionally is long with long sleeves  The Balochi shalwar kameez is similar to the styles worn in Afghanistan. The present Balochi shalwar kameez replaced the earlier version which consisted of a robe to the ankles and a shalwar using cloth of up to 40 yards.</largeDescription>
+  </Balochistan>
+  <Balochistan>
+    <regionID>2</regionID>
+    <ID>Traditional Dress</ID>
+    <Images>balochistanMensDress1.jpg</Images>
+    <description>Baloch Mens Dress</description>
+    <largeDescription>The men's shalwar kameez consists of a very baggy shalwar  which uses large lengths of cloth. The kameez is also loose, which traditionally is long with long sleeves  The Balochi shalwar kameez is similar to the styles worn in Afghanistan. The present Balochi shalwar kameez replaced the earlier version which consisted of a robe to the ankles and a shalwar using cloth of up to 40 yards.</largeDescription>
+  </Balochistan>
+  <Balochistan>
+    <regionID>2</regionID>
+    <ID>Traditional Dress</ID>
+    <Images>balochistanWomenDress.jpg</Images>
+    <description>Baloch Womens Dress</description>
+    <largeDescription>The female Balochi suit consists of the head scarf, long dress and a shalwar. Balochi women wear loose dresses which are embroidered in local designs which include Balochi silk-thread chain-stitch embroidery. Balochi embroidery alone has 118 different basic designs.</largeDescription>
+  </Balochistan>
+</ArrayOfBalochistan>

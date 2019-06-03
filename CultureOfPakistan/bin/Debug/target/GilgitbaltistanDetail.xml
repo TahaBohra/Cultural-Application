@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<ArrayOfGilgitbaltistan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Gilgitbaltistan>
+    <regionID>5</regionID>
+    <ID>Festivals</ID>
+    <Images>gilgitSilkRoadFestival1.jpg</Images>
+    <description>Silk Route Festival</description>
+    <largeDescription>Festival on the Roof of the world where natural environs, landscape, privileged location in the highest mountains of the world, breathtaking spectacles of sheer scenic beauty, wildlife and nature, awe-inspiring snow peaks, glittering glaciers, serene valleys of lush green foliage and fruits, gleaming and scintillating streams of unpolluted water, rich diversity of people, culture, folklore, arts, crafts and heritage,</largeDescription>
+  </Gilgitbaltistan>
+  <Gilgitbaltistan>
+    <regionID>5</regionID>
+    <ID>Festivals</ID>
+    <Images>gilgitSilkRoadFestival2.jpg</Images>
+    <description>Silk Route Festival</description>
+    <largeDescription>Festival on the Roof of the world where natural environs, landscape, privileged location in the highest mountains of the world, breathtaking spectacles of sheer scenic beauty, wildlife and nature, awe-inspiring snow peaks, glittering glaciers, serene valleys of lush green foliage and fruits, gleaming and scintillating streams of unpolluted water, rich diversity of people, culture, folklore, arts, crafts and heritage,</largeDescription>
+  </Gilgitbaltistan>
+  <Gilgitbaltistan>
+    <regionID>5</regionID>
+    <ID>Festivals</ID>
+    <Images>gilgitSilkRoadFestival3.jpg</Images>
+    <description>Silk Route Festival</description>
+    <largeDescription>Festival on the Roof of the world where natural environs, landscape, privileged location in the highest mountains of the world, breathtaking spectacles of sheer scenic beauty, wildlife and nature, awe-inspiring snow peaks, glittering glaciers, serene valleys of lush green foliage and fruits, gleaming and scintillating streams of unpolluted water, rich diversity of people, culture, folklore, arts, crafts and heritage,</largeDescription>
+  </Gilgitbaltistan>
+  <Gilgitbaltistan>
+    <regionID>5</regionID>
+    <ID>Cuisine</ID>
+    <Images>gilgitGyal.jpg</Images>
+    <description>Gyal</description>
+    <largeDescription>Gyal is a traditional local breakfast food, wheat pan-fried cakes with honey or fruit jam and the local favorite ingredient, apricot oil. The apricot oil creates such a sweet aroma to go with the smoky flavors from the charcoal or wood used in cooking. There are several different types of gyal, and the thing I love about this dish is how it is so simple and hearty, the perfect combination for a morning cup of buttery hot milk tea.</largeDescription>
+  </Gilgitbaltistan>
+  <Gilgitbaltistan>
+    <regionID>5</regionID>
+    <ID>Cuisine</ID>
+    <Images>gilgitMamtu.jpg</Images>
+    <description>Mamtu</description>
+    <largeDescription>Mamtu are little dumplings which are consumed as perfect starter or also served as party food. Mamtu are steam boiled dumplings filled with chopped  lamb, onions and a variety of vegetables. All the ingredients and meat are mixed together with spices and wrapped in dough. They are steamed for several hours in a steel container. The container has circular holes on it which allows the steam to be passed to the mamtus placed over the container. Mamtus are served hot with black pepper, vinegar or chili sauce.</largeDescription>
+  </Gilgitbaltistan>
+  <Gilgitbaltistan>
+    <regionID>5</regionID>
+    <ID>Cuisine</ID>
+    <Images>gilgitApricot.jpg</Images>
+    <description>Apricot</description>
+    <largeDescription>Gilgit-Baltistan is one of the most beautiful regions of Pakistan. Nature has gifted this region with immense beauty and blessings, including the highest peaks, lakes, and largest glaciers, rivers and variety of fruits. One of the most precious gifts by Allah is the blessing of delicious apricot, the major one among the variety of fruits in Gilgit Baltistan.</largeDescription>
+  </Gilgitbaltistan>
+  <Gilgitbaltistan>
+    <regionID>5</regionID>
+    <ID>Places to visit</ID>
+    <Images>gilgitAttabadLake.jpg</Images>
+    <description>Attabad Lake</description>
+    <largeDescription>Attabad Lake  is a lake in Gojal Valley, Hunza, Gilgit Baltistan, region of Pakistan. The lake was created in January 2010 as a result of the Attabad Flood. Attabad Lake has become one of the biggest tourist attractions in Gilgit-Baltistan offering activities like boating, jet skiing, fishing and other recreational activities.</largeDescription>
+  </Gilgitbaltistan>
+  <Gilgitbaltistan>
+    <regionID>5</regionID>
+    <ID>Places to visit</ID>
+    <Images>gilgitOldSilkRoad.jpg</Images>
+    <description>Ancient Silk Road</description>
+    <largeDescription>The highway, connecting the Gilgit–Baltistan region to the ancient Silk Road. Silk Road was an ancient network of trade routes that connected the East and West. It was central to cultural interaction between the regions for many centuries. The Silk Road primarily refers to the terrestrial routes connecting East Asia and Southeast Asia with East Africa, West Asia and Southern Europe.</largeDescription>
+  </Gilgitbaltistan>
+  <Gilgitbaltistan>
+    <regionID>5</regionID>
+    <ID>Places to visit</ID>
+    <Images>gilgitK2Mountain.jpg</Images>
+    <description>K2 Mountain</description>
+    <largeDescription>K2 Mountain, also known as Mount Godwin Austen or Chhogori  at 8,611 metres (28,251 ft) above sea level, is the second highest mountain in the world, after Mount Everest at 8,848 metres (29,029 ft). It is located on the China–Pakistan border between Baltistan in the Gilgit-Baltistan region of northern Pakistan, and the Taxkorgan Tajik Autonomous County of Xinjiang, China.  K2 is the highest point of the Karakoram range and the highest point in both Pakistan and Xinjiang.</largeDescription>
+  </Gilgitbaltistan>
+  <Gilgitbaltistan>
+    <regionID>5</regionID>
+    <ID>Traditional Dress</ID>
+    <Images>gilgitDress.jpg</Images>
+    <description>Gilgit-Baltistan Traditional Dress</description>
+    <largeDescription>The people of Gilgit-Baltistan  customs of wearing caps are also common in Gilgit Baltistan women especially during events like bride makeup. Women usually wear: Iraghi cap, Loose shalwar kameez, and colorful frock.</largeDescription>
+  </Gilgitbaltistan>
+  <Gilgitbaltistan>
+    <regionID>5</regionID>
+    <ID>Traditional Dress</ID>
+    <Images>gilgitMensDress.jpg</Images>
+    <description>Gilgit-Baltistan Traditional Dress</description>
+    <largeDescription>Male members of Gilgit Baltistan wear different stuff of woollen caps they consider it as an honour for them. Men usually wear: woolen hat, Shalwar Kameer, and woolen rode having long or short sleeve.</largeDescription>
+  </Gilgitbaltistan>
+  <Gilgitbaltistan>
+    <regionID>5</regionID>
+    <ID>Traditional Dress</ID>
+    <Images>gilgitWomenDress.jpg</Images>
+    <description>Gilgit-Baltistan Traditional Dress</description>
+    <largeDescription>The most elegant part of the women dress of Gilgit Baltistan is the traditional cap. Various types of caps are used. The most popular cap is the beautiful embroidered Iraghi cap with the traditional piece of the jewel called silsila. Many other types of caps are used in various regions.</largeDescription>
+  </Gilgitbaltistan>
+</ArrayOfGilgitbaltistan>

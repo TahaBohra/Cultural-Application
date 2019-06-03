@@ -1,0 +1,34 @@
+﻿<UserControl x:Class="CultureOfPakistan.frm_KPK"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:CultureOfPakistan"
+             mc:Ignorable="d" 
+           Height="606" Width="1013" Background="White">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="45*"></RowDefinition>
+            <RowDefinition Height="408*"></RowDefinition>
+            <RowDefinition Height="119*"></RowDefinition>
+
+
+        </Grid.RowDefinitions>
+        <Label Name="province_name" Content="Province KPK"  FontSize="20" Foreground="Blue" HorizontalAlignment="Left" Margin="0,-3,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Width="221" Height="35">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.276"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <RadioButton Content="Festivals" FontSize="20" HorizontalAlignment="Left" Margin="88,30,0,0" Grid.Row="2" VerticalAlignment="Top" Width="106" Height="26"/>
+        <RadioButton Content="Big cities" FontSize="20" HorizontalAlignment="Left" Margin="338,30,0,0" Grid.Row="2" VerticalAlignment="Top" Width="106" Height="26"/>
+        <RadioButton Content="Traditional Food" FontSize="20" HorizontalAlignment="Left" Margin="200,83,0,0" Grid.Row="2" VerticalAlignment="Top" Width="172" Height="26"/>
+        <RadioButton Content="Traditional Dress" FontSize="20" HorizontalAlignment="Left" Margin="415,83,0,0" Grid.Row="2" VerticalAlignment="Top" Width="169" Height="26"/>
+        <RadioButton Content="Places to visit" FontSize="20" HorizontalAlignment="Left" Margin="582,30,0,0" Grid.Row="2" VerticalAlignment="Top" Width="156" Height="26"/>
+
+    </Grid>
+</UserControl>
